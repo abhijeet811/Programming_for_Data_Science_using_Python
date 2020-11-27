@@ -128,7 +128,7 @@ def time_stats(df):
         print('Most common Start Hour'.ljust(3, '.'), popular_hour)
         # --------------------END---------------------------
 
-        print("\nThis took %s seconds." % (time.time() - start_time))
+        print("\nThis took {} seconds.".format((time.time() - start_time)))
         print('-'*78, '\n')
 
 
@@ -161,7 +161,7 @@ def station_stats(df):
         print('Most frequent route '.ljust(3, '.'), df['route'].mode()[0])
         # --------------------END---------------------------
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format((time.time() - start_time)))
     print('-'*78, '\n')
 
 
@@ -186,7 +186,7 @@ def trip_duration_stats(df):
         print('Total Travel Time '.ljust(3, '.'), df['Trip Duration'].sum())
         # --------------------END---------------------------
 
-        print("\nThis took %s seconds." % (time.time() - start_time))
+        print("\nThis took {} seconds.".format(time.time() - start_time))
         print('-'*78, '\n')
 
 
@@ -221,7 +221,7 @@ def user_stats(df):
               'Year '.ljust(3, '.'), int(df['Birth Year'].mode()[0]))
     # --------------------END---------------------------
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format((time.time() - start_time)))
     print('-'*78, '\n')
 
 
