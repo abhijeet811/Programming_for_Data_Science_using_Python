@@ -1,5 +1,5 @@
-### Date created
-25-11-2020
+### Udacity-programming-for-Data-Science-using-Python-Nanodegree
+This is a certified Nanodegree course on - Data Science programming at Udacity learning platform. More details on the Nanodegree and the project can be accessed using this Link on [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 
 ### Project Title
 EXPLORE US BIKESHARE DATA ANALYSIS	
