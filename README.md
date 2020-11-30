@@ -12,6 +12,9 @@ In this project, investigated a relational database while working with PostgreSQ
 #### Project 2:[Explore US Bikeshare Data](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2):
 In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
 #### Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2)
+#### Project 3:[Post your work on github ](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-3):
+In this project, learned important tools that all programmers use. First, got introduced to working in the terminal. Next, learnt to use git and Github to manage versions of a program and collaborate with others on programming projects. Posted two different versions of a Jupyter Notebook capturing the learnings from the course, and added commits to the project Git repository.
+#### Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-3)
 ### Instructors:
 Josh Bernhard - DATA SCIENTIST AT NERD WALLET
 Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
