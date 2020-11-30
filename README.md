@@ -28,15 +28,15 @@ Richard is a Course Developer with a passion for teaching. He has a degree in Co
 Karl Krueger - COMMAND LINE INSTRUCTOR
 Karl is a Course Developer at Udacity. Before joining Udacity, Karl was a Site Reliability Engineer (SRE) at Google for eight years, building automation and monitoring to keep the world's busiest web services online.
 ### Technologies Used:
-# . [Python 3.7](https://www.python.org/downloads/release/python-373/)
-# . [Anaconda](https://www.anaconda.com/)
-# . [Jupyter Notebook](https://jupyter.org/)
-# . [Postgre SQL](https://www.postgresql.org/)
-# . [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
-# . [Git version controll](https://git-scm.com/)
-# . [Github](https://github.com/)
-# . [Atom code editer](https://atom.io/)
-# . [VS code](https://code.visualstudio.com/)
+#### [Python 3.7](https://www.python.org/downloads/release/python-373/)
+#### [Anaconda](https://www.anaconda.com/)
+#### [Jupyter Notebook](https://jupyter.org/)
+#### [Postgre SQL](https://www.postgresql.org/)
+#### [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
+#### [Git version controll](https://git-scm.com/)
+#### [Github](https://github.com/)
+#### [Atom code editer](https://atom.io/)
+#### [VS code](https://code.visualstudio.com/)
 
 ### Acknowledgement:
 Thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree program](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
