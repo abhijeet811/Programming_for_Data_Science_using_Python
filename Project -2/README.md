@@ -1,14 +1,14 @@
-###Explore US Bikeshare Data
+### Explore US Bikeshare Data
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Written code to import the data and answer interesting questions about it by computing descriptive statistics. Also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-###Project overview:
+### Project overview:
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
-###The Datasets:
+### The Datasets:
 All three of the data files contain the same core six (6) columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
@@ -21,7 +21,7 @@ The Chicago and New York City files also have the following two columns:
 
 Gender
 Birth Year
-###Statistics Computed:
+### Statistics Computed:
 Analyzed the data related to bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, written code to provide the following information:
 
 1. Popular times of travel (i.e., occurs most often in the start time):
@@ -39,7 +39,7 @@ average travel time
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
-###Technologies Used:
+### Technologies Used:
 Python
 
 Used Python programming language to explore data related to bikeshare.
@@ -59,7 +59,7 @@ Used to control and record the project files. Shared the work on GitHub profile.
 Project Rubric
 The project must meet all the requirements mentioned in the rubric for the submission to pass.
 
-###Code Quality
+### Code Quality
 CRITERIA	MEETS SPECIFICATIONS
 Functionality of code	All code cells can be run without error.
 Choice of data types and structures	Appropriate data types (e.g. strings, floats) and data structures (e.g. lists, dictionaries) are chosen to carry out the required analysis tasks.
@@ -71,15 +71,15 @@ Script and Questions
 CRITERIA	MEETS SPECIFICATIONS
 Solicit and handle raw user input	Raw input is solicited and handled correctly to guide the interactive question-answering experience; no errors are thrown when unexpected input is entered.
 Use descriptive statistics to answer questions about the data. Raw data is displayed upon request by the user.	Descriptive statistics are correctly computed and used to answer the questions posed about the data. Raw data is displayed upon request by the user in this manner: Script should prompt the user if they want to see 5 lines of raw data, display that data if the answer is 'yes', and continue these prompts and displays until the user says 'no'.
-###Suggestions to Make the Project Stand Out!
+### Suggestions to Make the Project Stand Out!
 Submission Phase, Reviewer Tips
 Change the structure of bikeshare.py to make the code more efficient or in better style.
 Ask and answer additional questions about the data beyond the questions already provided.
 Make the interactive experience wow-worthy! Add images, make it into a web app, etc. (If you do create a web app, make sure to include clear directions how to execute it.) Make it your own!
-###Standouts:
+### Standouts:
 The script is structured well and passed the pycodestyle
 
-###Software requirements:
+### Software requirements:
 To complete this project, the following software requirements apply:
 
 You should have Python 3, NumPy, and pandas installed using Anaconda
@@ -93,11 +93,12 @@ The developed CLI program allows the user to explore an US bikeshare system data
 This program is structured in two steps: 
 In a first moment, the user selects the filters that are going to be applied to the database. The user is able to chose as many filters as it would like. After this step, the DataFrame for the analysis is created based on the filters chosen by the user.
 
+
 In a second moment, the user is able to chose, from a list of options, the statistics the user would like to calculate, based on the available filtered data.As of April 2, 2019 the user is now able to chose to view raw data and also able sort this data by columns, in ascending or descending order.
 
 
 
 ### Files used
 bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
-###Acknowledgement:
+### Acknowledgement:
 Thanks to the Udacity platform for providing the Programming for Data Science with Python Nanodegree program.
