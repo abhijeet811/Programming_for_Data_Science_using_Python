@@ -6,11 +6,13 @@ To Learn the programming fundamentals required for a career in data science usin
 
 ### Course Curriculam:
 Introduction to SQL Learned SQL fundamentals such as JOINs, Aggregations, Subqueries and advanced Window functions. Learned how to use SQL to answer complex business problems.
-####Project 1:[Investigate a Sakila Database](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-1): In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
-####Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-1)
-####Project 2:[Explore US Bikeshare Data](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2): In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
-####Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2)
-###Instructors:
+#### Project 1:[Investigate a Sakila Database](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-1): 
+In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
+#### Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-1)
+#### Project 2:[Explore US Bikeshare Data](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2):
+In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
+#### Project Submission: [Check my project submission](https://github.com/abhijeet811/Programming_for_Data_Science_using_Python/tree/master/Project%20-2)
+### Instructors:
 Josh Bernhard - DATA SCIENTIST AT NERD WALLET
 Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
 
@@ -25,14 +27,16 @@ Richard is a Course Developer with a passion for teaching. He has a degree in Co
 
 Karl Krueger - COMMAND LINE INSTRUCTOR
 Karl is a Course Developer at Udacity. Before joining Udacity, Karl was a Site Reliability Engineer (SRE) at Google for eight years, building automation and monitoring to keep the world's busiest web services online.
-###Technologies Used:
-###.[Python 3.7](https://www.python.org/downloads/release/python-373/)
-###.[Anaconda](https://www.anaconda.com/)
-###.[Jupyter Notebook](https://jupyter.org/)
-###.[Postgre SQL](https://www.postgresql.org/)
-###.[Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
-###.[Git version controll](https://git-scm.com/)
-###.[Github](https://github.com/)
+### Technologies Used:
+### . [Python 3.7](https://www.python.org/downloads/release/python-373/)
+### . [Anaconda](https://www.anaconda.com/)
+### . [Jupyter Notebook](https://jupyter.org/)
+### . [Postgre SQL](https://www.postgresql.org/)
+### . [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
+### . [Git version controll](https://git-scm.com/)
+### . [Github](https://github.com/)
+### . [Atom code editer](https://atom.io/)
+### . [VS code](https://code.visualstudio.com/)
 
 ### Acknowledgement:
 Thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree program](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
